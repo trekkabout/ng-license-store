@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "876879696",
+    "onSale": false,
+    "picture": "https://'#' ",
+    "title": "Peach Tree State",
+    "price": 34,
+    "year": 2020,
+    "state": "GA",
+    "description": "Peach Tree"
+  },
+  {
+    "_id": "955479696",
+    "onSale": true,
+    "picture": "https://'#'",
+    "title": "Palamino State",
+    "price": 34,
+    "year": 2020,
+    "state": "SC",
+    "description": "Palameno Tree"
+  }
+]
